@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+我是xdu在读大三的计算机学生（邮箱22009290052@stu.xidian.edu.cn），从大二下开始接触人工智能领域，当时和同学组队跟着一个在做nlp的老师做军用的武器装备的识别项目，很遗憾当初并没有保存记录的意识，所以丢失了很多宝贵的学习经验。大三刚开学，我跟本学校一个在计算机视觉领域很厉害的导师做人脸恢复，第一学期看了该领域不同方法的经典文章，也跑了经典模型练练手，主要记录了一些跑模型的经验和遇到的坑，直接在csdn上面记录了，之后有时间我会将这些经验搬运过来，同时还有对一些代码框架的学习文档也会放过来，主要是给自己的输出做一个管理，很微小的经验，不过如果能恰好帮助到大家就最好啦！
 
 A data-driven personal website
 ======
